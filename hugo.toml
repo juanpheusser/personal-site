@@ -96,5 +96,9 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/juanheusser/"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
+name = "medium"
+url = "https://medium.com/@juanpheusser"
+
+[[params.socialIcons]]
+name = "flux.ai"
+url = "https://www.flux.ai/jheusser"
